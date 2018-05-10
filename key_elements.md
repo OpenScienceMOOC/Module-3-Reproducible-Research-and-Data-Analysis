@@ -10,7 +10,7 @@
 
 * Principles of reproducibility, and integrity and ethics in research.
 
-* What is the âreproducibility crisisâ, and meta-analyses of reproducibility.
+* What is the 'reproducibility crisis', and meta-analyses of reproducibility.
 
 * Open materials, reagents and hardware, including resources, repositories and standards.
 
@@ -132,7 +132,7 @@
 
 * [Estimating the Reproducibility of Psychological Science](https://osf.io/447b3/) (Nosek et al., 2017).
 
-* [Digital Open Science â Teaching digital tools for reproducible and transparent research](https://osf.io/fbvep/) (Toelch and Ostwald, 2017).
+* [Digital Open Science: Teaching digital tools for reproducible and transparent research](https://osf.io/fbvep/) (Toelch and Ostwald, 2017).
 
 * [Terminologies for reproducible research](https://arxiv.org/abs/1802.03311) (Barba, 2018).
 
@@ -154,7 +154,7 @@
 
 * Data hygiene and data provenance.
 
-    * [A Data Cleanerâs Cookbook](https://www.polydesmida.info/cookbook/).
+    * [A Data Cleaner's Cookbook](https://www.polydesmida.info/cookbook/).
 
     * [Storify by Dawn Bazely](https://storify.com/dawnbazely/data-hygeine-dataprovenance-harvardforest).
 
@@ -172,7 +172,7 @@
 
 **Other**
 
-* Institutions, projects, and companies using or providing open hardware/materials: CERNâs [Open Hardware Repository](http://www.ohwr.org/) and Open Hardware License; [UFRGS Centro de Tecnologia AcadÃªmica](http://cta.if.ufrgs.br) (CTA); [Michigan Tech Open Sustainability Technology research group](http://www.mse.mtu.edu/~pearce/Index.html); [Open Plant](https://www.openplant.org/); [Trend in Africa](www.trendinafrica.org); [Open Lab Tools Cambridge University](http://openlabtools.eng.cam.ac.uk/index.php); [PhotosynQ](https://photosynq.org/); [PublicLab](https://publiclab.org/); [BackyardBrains](https://backyardbrains.com/); [OpenPCR](http://www.openpcr.org); [OpenROV](https://www.openrov.com/); [Prometheus Science](http://www.prometheus-science.com); [senseBox](https://sensebox.de/en/), [Addgene](addgene.org)
+* Institutions, projects, and companies using or providing open hardware/materials: CERN's [Open Hardware Repository](http://www.ohwr.org/) and Open Hardware License; [UFRGS Centro de Tecnologia AcadÃªmica](http://cta.if.ufrgs.br) (CTA); [Michigan Tech Open Sustainability Technology research group](http://www.mse.mtu.edu/~pearce/Index.html); [Open Plant](https://www.openplant.org/); [Trend in Africa](www.trendinafrica.org); [Open Lab Tools Cambridge University](http://openlabtools.eng.cam.ac.uk/index.php); [PhotosynQ](https://photosynq.org/); [PublicLab](https://publiclab.org/); [BackyardBrains](https://backyardbrains.com/); [OpenPCR](http://www.openpcr.org); [OpenROV](https://www.openrov.com/); [Prometheus Science](http://www.prometheus-science.com); [senseBox](https://sensebox.de/en/), [Addgene](addgene.org)
 
 * [Definition of Open Reproducible Research](https://www.fosteropenscience.eu/taxonomy/term/103), FOSTER.
 
