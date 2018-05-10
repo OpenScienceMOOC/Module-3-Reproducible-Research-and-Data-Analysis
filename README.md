@@ -1,4 +1,4 @@
-# Module 23: Reproducible Research and Data Analysis
+# Module 3: Reproducible Research and Data Analysis
 
 ## Rationale <a name="Rationale"></a>
 
