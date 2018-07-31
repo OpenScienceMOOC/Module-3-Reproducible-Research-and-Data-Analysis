@@ -189,6 +189,8 @@
 * [SoS](http://vatlab.github.io/SoS/), multi-language notebook (based on Jupyter Notebook) and workflow system for cost-effective reproducible analysis.
 
     * Introduction to [SoS Notebook](https://vatlab.github.io/blog/post/sos-notebook/), [SoS Workflow Engine](https://vatlab.github.io/blog/post/sos-workflow-engine/), and [the power of backing a polyglot notebook with a workflow engine](https://vatlab.github.io/blog/post/power-of-sos-plus-sos-notebook/).
+    
+* Decentralized research platforms such as [DEIP](https://deip.world/).
 
 ### Tasks:
 
