@@ -169,6 +169,8 @@
     * [How to run a lab for reproducible research](https://figshare.com/articles/How_to_run_a_lab_for_reproducible_research/4676170/1), Lorena Barba.
 
     * [Essential skills for reproducible research computing](https://barbagroup.github.io/essential_skills_RRC/) (Barba et al., 2017).
+    
+* [A toolkit for data transparency takes shape](https://www.nature.com/articles/d41586-018-05990-5), Jeffrey Perkel.
 
 **Other**
 
@@ -191,6 +193,8 @@
     * Introduction to [SoS Notebook](https://vatlab.github.io/blog/post/sos-notebook/), [SoS Workflow Engine](https://vatlab.github.io/blog/post/sos-workflow-engine/), and [the power of backing a polyglot notebook with a workflow engine](https://vatlab.github.io/blog/post/power-of-sos-plus-sos-notebook/).
     
 * Decentralized research platforms such as [DEIP](https://deip.world/).
+
+* [FORRT - Framework for Open and Reproducible Research Training](https://forrt.netlify.com/index.html).
 
 ### Tasks:
 
