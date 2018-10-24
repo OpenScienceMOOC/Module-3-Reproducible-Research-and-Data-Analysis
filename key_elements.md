@@ -63,6 +63,12 @@
     * [R markdown workshop](https://github.com/libscie/rmarkdown-workshop) (Liberate Science).
 
     * [rrtools: Tools for Writing Reproducible Research in R](https://github.com/benmarwick/rrtools) (Ben Marwick).
+	
+	* [Reproducible Research: Walking the Walk](https://reproducible-research.github.io/scipy-tutorial-2014/). SciPy 2014 workshop.
+
+	* Reproducible Python, Pycon 2018 workshop. [Repo](https://github.com/trallard/ReproduciblePython), [Video](https://www.youtube.com/watch?v=VAXCrDrAPo0)
+	
+	* [Reproducible Research: Principles and Methods for transparent science](https://www.fun-mooc.fr/courses/course-v1:inria+41016+session01bis/about), online course in French + English, showing Reproducible Research practices. It offers three tracks: Jupyter+Python, RStudio+R, Emacs Org-Mode + Python/R. 
 
 * [ReproZip](https://reprozip.org), an open source tool for full computational reproducibility.
 
