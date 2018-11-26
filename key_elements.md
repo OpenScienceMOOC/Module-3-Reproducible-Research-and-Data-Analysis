@@ -98,6 +98,8 @@
 
 * [Improving your statistical inferences](https://www.coursera.org/learn/statistical-inferences), Daniel Lakens.
 
+* [Statistical Thinking for the 21st Century](http://statsthinking21.org), an open access online book for introductory statistics. 
+
     * [Open Stats Lab](https://sites.trinity.edu/osl/data-sets-and-activities), Kevin McIntyre.
 
 * [R for Data Science](http://r4ds.had.co.nz/).
