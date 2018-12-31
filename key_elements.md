@@ -132,6 +132,8 @@
 
 * [What does research reproducibility mean?](http://stm.sciencemag.org/content/8/341/341ps12) (Goodman et al., 2016).
 
+* Recommendations for open data science (Gymrek and Farjoun, 2016).
+
 * [Tools and techniques for computational reproducibility](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4940747/) (Piccolo and Frampton, 2016).
 
 * [Transparency, Reproducibility, and the Credibility of Economics Research](https://osf.io/preprints/bitss/9a3rw/) (Christensen and Miguel, 2017).
@@ -152,11 +154,14 @@
 
 * [Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160) (Lowndes et al. 2017).
 
+* [A model-centric analysis of openness, replication, and reproducibility](https://arxiv.org/abs/1811.04525) (Baumgaertner et al., 2018).
+
 * [Haves and Have nots must find a better way: The case for Open Scientific Hardware](https://osf.io/uh682/) (Chagas, 2018).
 
 * [Computational Reproducibility via Containers in Social Psychology](https://psyarxiv.com/mf82t) (Green and Clyburne-Sherin, 2018).
 
-* Recommendations for open data science (Melissa Gymrek and Yossi Farjoun, 2016)
+* [Reproducible research practices, transparency, and open access data in the biomedical literature, 2015-2017](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006930) (Wallach et al., 2018).
+
 
 **Key Posts**
 
@@ -186,9 +191,15 @@
 
 * [Definition of Open Reproducible Research](https://www.fosteropenscience.eu/taxonomy/term/103), FOSTER.
 
+* [Dara skills for reproducible science](https://gupsych.github.io/data_skills/index.html), Dale Barr and Lisa DeBruine.
+
+* [Reversible Reproducible Documents](https://github.com/noamross/redoc), Noam Ross.
+
 * [Global Open Science Hardware Roadmap](http://openhardware.science/global-open-science-hardware-roadmap/), GOSH.
 
 * [Open and Reproducible Science syllabus](https://osf.io/qbm89/) (Campbell, 2018).
+
+* [Reproducible workflows](https://github.com/bapalmer/reproducible-workflows/blob/master/afternoon_session/docs/2018-11-01_Github_to_RStudio.pdf), Brian Palmer.
 
 * [EQUATOR network](http://www.equator-network.org/) (Enhancing the QUAlity and Transparency Of health Research).
 
