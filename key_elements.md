@@ -69,6 +69,12 @@
 	* Reproducible Python, Pycon 2018 workshop. [Repo](https://github.com/trallard/ReproduciblePython), [Video](https://www.youtube.com/watch?v=VAXCrDrAPo0)
 	
 	* [Reproducible Research: Principles and Methods for transparent science](https://www.fun-mooc.fr/courses/course-v1:inria+41016+session01bis/about), online course in French + English, showing Reproducible Research practices. It offers three tracks: Jupyter+Python, RStudio+R, Emacs Org-Mode + Python/R. 
+	
+* [Data Stewardship Wizard (DSW)](https://ds-wizard.org) - an open source tool for Smart Data Management Planning intended for FAIR Open Science
+
+    * [Documentation](https://docs.ds-wizard.org)
+    
+    * [ELIXIR AHM'19 DSW Workshop slides](https://f1000research.com/slides/8-1003)
 
 * [ReproZip](https://reprozip.org), an open source tool for full computational reproducibility.
 
